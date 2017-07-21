@@ -14,8 +14,7 @@ Guideline: You can copy the value of
 to a variable and consider its cell "empty". Since this leaves an extra cell empty on the right, you can shift everything over until 
 
 can be inserted. This will create a duplicate of each value, but when you reach the right spot, you can replace it with 
-
-. 
+ 
 Input Format 
 There will be two lines of input:
 size  - the size of the array
