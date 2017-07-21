@@ -1,2 +1,2 @@
-HackerRank
-all HackerRank challanges solved with problem statement
+
+all HackerRank challanges solved with problem statement(Please check folders)
